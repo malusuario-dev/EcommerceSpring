@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Ecomerce
+  profiles:
+    active: dev
